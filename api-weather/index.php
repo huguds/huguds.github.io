@@ -71,10 +71,10 @@
         </div>
     </div>
 </div>
-<!-- <script type="text/javascript" src="main.js"></script>
+<script type="text/javascript" src="main.js">
 <?
 include "main.js"; // ou a extensão que for
 ?>
-  -->
+</script>
 </body>
 </html></html>
