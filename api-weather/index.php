@@ -71,6 +71,10 @@
         </div>
     </div>
 </div>
-<script type="text/javascript" src="main.js"></script>
+<!-- <script type="text/javascript" src="main.js"></script>
+<?
+include "main.js"; // ou a extensão que for
+?>
+  -->
 </body>
 </html></html>
